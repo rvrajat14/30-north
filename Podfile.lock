@@ -1,0 +1,226 @@
+PODS:
+  - AcceptCardSDK (5.3.6)
+  - AFDateHelper (4.3.0)
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireMapper (1.0.0):
+    - Alamofire (~> 4.1)
+  - CarbonKit (2.3.1)
+  - CenteredCollectionView (2.2.2)
+  - DropDown (2.3.13)
+  - Firebase (7.8.0):
+    - Firebase/Core (= 7.8.0)
+  - Firebase/Auth (7.8.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (~> 7.8.0)
+  - Firebase/Core (7.8.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 7.8.0)
+  - Firebase/CoreOnly (7.8.0):
+    - FirebaseCore (= 7.8.0)
+  - Firebase/Crashlytics (7.8.0):
+    - Firebase/CoreOnly
+    - FirebaseCrashlytics (~> 7.8.0)
+  - FirebaseAnalytics (7.8.0):
+    - FirebaseCore (~> 7.0)
+    - FirebaseInstallations (~> 7.0)
+    - GoogleAppMeasurement (= 7.8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.0)
+    - GoogleUtilities/MethodSwizzler (~> 7.0)
+    - GoogleUtilities/Network (~> 7.0)
+    - "GoogleUtilities/NSData+zlib (~> 7.0)"
+    - nanopb (~> 2.30907.0)
+  - FirebaseAuth (7.8.0):
+    - FirebaseCore (~> 7.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GTMSessionFetcher/Core (~> 1.4)
+  - FirebaseCore (7.8.0):
+    - FirebaseCoreDiagnostics (~> 7.4)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/Logger (~> 7.0)
+  - FirebaseCoreDiagnostics (7.8.0):
+    - GoogleDataTransport (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/Logger (~> 7.0)
+    - nanopb (~> 2.30907.0)
+  - FirebaseCrashlytics (7.8.0):
+    - FirebaseCore (~> 7.0)
+    - FirebaseInstallations (~> 7.0)
+    - GoogleDataTransport (~> 8.0)
+    - nanopb (~> 2.30907.0)
+    - PromisesObjC (~> 1.2)
+  - FirebaseInstallations (7.8.0):
+    - FirebaseCore (~> 7.0)
+    - GoogleUtilities/Environment (~> 7.0)
+    - GoogleUtilities/UserDefaults (~> 7.0)
+    - PromisesObjC (~> 1.2)
+  - FirebaseUI/Auth (10.0.2):
+    - Firebase/Auth (>= 7.2.0)
+    - GoogleUtilities/UserDefaults
+  - FirebaseUI/Phone (10.0.2):
+    - FirebaseUI/Auth
+  - fluid-slider (1.1.0):
+    - pop
+  - GoogleAppMeasurement (7.8.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.0)
+    - GoogleUtilities/MethodSwizzler (~> 7.0)
+    - GoogleUtilities/Network (~> 7.0)
+    - "GoogleUtilities/NSData+zlib (~> 7.0)"
+    - nanopb (~> 2.30907.0)
+  - GoogleDataTransport (8.3.0):
+    - GoogleUtilities/Environment (~> 7.2)
+    - nanopb (~> 2.30907.0)
+    - PromisesObjC (~> 1.2)
+  - GoogleMaps (4.2.0):
+    - GoogleMaps/Maps (= 4.2.0)
+  - GoogleMaps/Base (4.2.0)
+  - GoogleMaps/Maps (4.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.2.0):
+    - GoogleMaps/Base (= 4.2.0)
+  - GoogleUtilities/AppDelegateSwizzler (7.3.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.3.0):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (7.3.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (7.3.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (7.3.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.3.0)"
+  - GoogleUtilities/Reachability (7.3.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (7.3.0):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.5.0)
+  - HGCircularSlider (2.2.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Kingfisher (6.2.1)
+  - nanopb (2.30907.0):
+    - nanopb/decode (= 2.30907.0)
+    - nanopb/encode (= 2.30907.0)
+  - nanopb/decode (2.30907.0)
+  - nanopb/encode (2.30907.0)
+  - pop (1.0.12)
+  - PromisesObjC (1.2.12)
+  - QuickLayout (3.0.0)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - Siren (5.8.1)
+  - SwiftEntryKit (1.2.7):
+    - QuickLayout (= 3.0.0)
+  - TGPControls (5.1.0)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - AcceptCardSDK
+  - AFDateHelper
+  - Alamofire
+  - AlamofireImage
+  - AlamofireMapper
+  - CarbonKit
+  - CenteredCollectionView
+  - DropDown
+  - Firebase
+  - Firebase/Auth
+  - Firebase/Core
+  - Firebase/Crashlytics
+  - FirebaseUI/Phone
+  - fluid-slider
+  - GoogleMaps
+  - GooglePlaces
+  - HGCircularSlider
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - SDWebImage
+  - Siren
+  - SwiftEntryKit
+  - TGPControls
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  trunk:
+    - AcceptCardSDK
+    - AFDateHelper
+    - Alamofire
+    - AlamofireImage
+    - AlamofireMapper
+    - CarbonKit
+    - CenteredCollectionView
+    - DropDown
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseCrashlytics
+    - FirebaseInstallations
+    - FirebaseUI
+    - fluid-slider
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleMaps
+    - GooglePlaces
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - HGCircularSlider
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - nanopb
+    - pop
+    - PromisesObjC
+    - QuickLayout
+    - SDWebImage
+    - Siren
+    - SwiftEntryKit
+    - TGPControls
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  AcceptCardSDK: fa789ecb376003ad7bf013bd261a6b4f099cf1df
+  AFDateHelper: b769c07d3d4784ee9a74633285304261bb27dc52
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireMapper: bdcd94eb53ab63ec9a12e4685bba73e3d0072f36
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
+  CenteredCollectionView: a9217908a698c386cbb98af11b596da48900b908
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Firebase: 1e0d6610f21bdd131231525d7ee78f7f9e64e606
+  FirebaseAnalytics: e70f7e0f1f178960a7d0b4ebec32e8c386245eda
+  FirebaseAuth: 667e576a716f6f9fe31687791406f61135002d47
+  FirebaseCore: 049029df3096e5c118917029be7da75ee16f3b1b
+  FirebaseCoreDiagnostics: 066f996579cf097bdad3d7dc9a918d6b9e129c50
+  FirebaseCrashlytics: d07e61d85aabc7d38a68f94ff99995f8557ea8d0
+  FirebaseInstallations: 7f7ed0e7e27fb51f57291e1876e2ddb1524126c1
+  FirebaseUI: 59db3d833773f985550897d54ceb811ba37fb9a5
+  fluid-slider: 68037ac7247f16a89f3e24ff5d0167c8eea6f50b
+  GoogleAppMeasurement: dccff6095ea1cd8972a8b96d0ee38b9e6d67acbb
+  GoogleDataTransport: b006084b73915a42c28a3466961a4edda3065da6
+  GoogleMaps: eb03e327edfd70b06de1e6e321653f73712df7ad
+  GooglePlaces: 196a9dd88580dcb3f3df46f415057703d0d2a310
+  GoogleUtilities: abda45f519bc4073aa1171d2f8742108def46017
+  GTMSessionFetcher: b3503b20a988c4e20cc189aa798fd18220133f52
+  HGCircularSlider: afb1942743a2df156dcc7a3500216e523e14266b
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Kingfisher: e71c6fac2aebb1262888cabc2cb13d313362a48f
+  nanopb: 59221d7f958fb711001e6a449489542d92ae113e
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  Siren: de768099aff1f1c9acda4247064788a4940b4bf3
+  SwiftEntryKit: 537c92699d6034efb1ef9c32b11e0b37c97aa589
+  TGPControls: 52c0770bee9c9aee364f1559cc627fc01ea5e8b2
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 6e4b5bb2ff8b276d3024ebe9fc1ca125e5a5dfd5
+
+COCOAPODS: 1.10.1

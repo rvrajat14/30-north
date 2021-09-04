@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>smallImage</key>
+		<string>peru.png</string>
+		<key>bigImage</key>
+		<string>peru.png</string>
+		<key>title</key>
+		<string>Peru microlot Chacra Alto Lucero</string>
+		<key>smallDescription</key>
+		<string>COVID-19 is the new respiratory disease spreading aroudn the world and it is caused by a coronavirus.</string>
+		<key>description</key>
+		<string>Lengthy version here: COVID-19 is the new respiratory disease spreading aroudn the world and it is caused by a coronavirus.</string>
+		<key>htmlPage</key>
+		<string>wheel.html</string>
+	</dict>
+	<dict>
+		<key>smallImage</key>
+		<string>costarica.png</string>
+		<key>bigImage</key>
+		<string>costarica.png</string>
+		<key>title</key>
+		<string>Costa Rica SHB Tarrazu</string>
+		<key>smallDescription</key>
+		<string>The most common symptoms are very similar to other viruses: fever, cough, and difficulty breathing.</string>
+		<key>description</key>
+		<string>Lengthy version here: The most common symptoms are very similar to other viruses: fever, cough, and difficulty breathing.</string>
+		<key>htmlPage</key>
+		<string>https://www.hackingwithswift.com/articles/112/the-ultimate-guide-to-wkwebview</string>
+	</dict>
+	<dict>
+		<key>smallImage</key>
+		<string>colombia.png</string>
+		<key>bigImage</key>
+		<string>colombia.png</string>
+		<key>title</key>
+		<string>Colombia La Finca El Laurel</string>
+		<key>smallDescription</key>
+		<string>Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>description</key>
+		<string>Lengthy version here: Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>htmlPage</key>
+		<string>people.html</string>
+	</dict>
+	<dict>
+		<key>smallImage</key>
+		<string>colombia.png</string>
+		<key>bigImage</key>
+		<string>colombia.png</string>
+		<key>title</key>
+		<string>Colombia Finca Samaria</string>
+		<key>smallDescription</key>
+		<string>Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>description</key>
+		<string>Lengthy version here: Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>htmlPage</key>
+		<string>people.html</string>
+	</dict>
+	<dict>
+		<key>smallImage</key>
+		<string>guatemala.png</string>
+		<key>bigImage</key>
+		<string>guatemala.png</string>
+		<key>title</key>
+		<string>Guatemala SHB EP Huehuetenango</string>
+		<key>smallDescription</key>
+		<string>Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>description</key>
+		<string>Lengthy version here: Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>htmlPage</key>
+		<string>people.html</string>
+	</dict>
+	<dict>
+		<key>smallImage</key>
+		<string>india.png</string>
+		<key>bigImage</key>
+		<string>india.png</string>
+		<key>title</key>
+		<string>India Monsooned Malabar AA</string>
+		<key>smallDescription</key>
+		<string>Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>description</key>
+		<string>Lengthy version here: Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>htmlPage</key>
+		<string>people.html</string>
+	</dict>
+	<dict>
+		<key>smallImage</key>
+		<string>kenya.png</string>
+		<key>bigImage</key>
+		<string>kenya.png</string>
+		<key>title</key>
+		<string>Kenya AA+</string>
+		<key>smallDescription</key>
+		<string>Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>description</key>
+		<string>Lengthy version here: Everyone is at risk of getting COVID-19, but some people are at higher risk of serious illness.</string>
+		<key>htmlPage</key>
+		<string>people.html</string>
+	</dict>
+</array>
+</plist>
